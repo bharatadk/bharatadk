@@ -1,4 +1,5 @@
-https://c.tenor.com/GfSX-u7VGM4AAAAC/coding.gif
+![image](https://user-images.githubusercontent.com/51126350/173405095-36c95d26-eb39-42f2-a898-6bc47bc921ce.png)
+
 <h1 align="center">Hi 👋, I'm Bharat</h1>
 <h3 align="center">A passionate Python Developer</h3>
 
