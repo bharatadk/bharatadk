@@ -1,3 +1,4 @@
+https://c.tenor.com/GfSX-u7VGM4AAAAC/coding.gif
 <h1 align="center">Hi 👋, I'm Bharat</h1>
 <h3 align="center">A passionate Python Developer</h3>
 
