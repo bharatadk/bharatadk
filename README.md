@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://twitter.com/bharatadhik" target="blank"><img src="https://img.shields.io/twitter/follow/bharatadhik?logo=twitter&style=for-the-badge" alt="bharatadhik" /></a> </p>
 
-- 🌱 I’m currently learning **Django, Javascript and React**
+- 🌱 I’m currently learning **Flask, Javascript and React**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
