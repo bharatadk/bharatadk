@@ -25,9 +25,6 @@
 <br><img align="center" src="https://github-readme-stats.vercel.app/api?username=bharatadk&show_icons=true&locale=en" alt="bharatadk" />
 <br>
 
-
-
-<br>
 ## Open Source Projects:
 <table>
     <tbody><tr><th>Machine Learning </th><th>PyPi Packages</th></tr>
