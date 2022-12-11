@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Reactjs, Nodejs, Mongodb**
 
-- 👨‍💻 All of my projects are available at [https://bharatadk.tech](https://bharatadk.tech)
+- 👨‍💻 All of my projects are available at [Here]([https://bharatadk.tech](https://bharatadk.github.io/portfolio-html/))
 
 - 📝 I regularly write articles on [https://medium.com/@bharatadk.on](https://medium.com/@bharatadk.on)
 
