@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bharatadk&label=Profile%20views&color=0e75b6&style=flat" alt="bharatadk" /> </p>
 
-- 🌱 I’m currently learning **Reactjs, Nodejs, Mongodb**
+- 🌱 I’m currently learning **Nextjs, Typescript, Nodejs,**
 
 - 👨‍💻 All of my projects are available at ([https://bharatadk.github.io](https://bharatadk.github.io/portfolio-html/))
 
