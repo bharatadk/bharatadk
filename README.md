@@ -65,7 +65,7 @@
 <tbody>
 <tr>
 <td><a href="https://github.com/bharatadk/python_splitter">Python Splitter</a></td>
-<td><a href="https://pypi.org/project/python-splitter/" rel="nofollow"><img src="https://camo.githubusercontent.com/a6f0e35b273c2421b5c5f36cde4449da0e2a1e6c64e6109aa2cc70beb1c32fc0/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f507950692d626c61636b3f7374796c653d666c61742d737175617265266c6f676f3d70797069" alt="SQLPyPi" data-canonical-src="https://img.shields.io/badge/PyPi-black?style=flat-square&amp;logo=pypi" style="max-width: 100%;"></a> <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/36633b7823d8651800545ff69ba1cdf700a9578ff0534935ef13f47df7351565/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4d7953514c2d626c61636b3f7374796c653d666c61742d737175617265266c6f676f3d6d7973716c"></a></td>
+<td><a href="https://pypi.org/project/python-splitter/" rel="nofollow"><img src="https://pypi.org/static/images/logo-small.2a411bc6.svg" alt="SQLPyPi" data-canonical-src="https://img.shields.io/badge/PyPi-black?style=flat-square&amp;logo=pypi" style="max-width: 100%;"></a> <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/36633b7823d8651800545ff69ba1cdf700a9578ff0534935ef13f47df7351565/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4d7953514c2d626c61636b3f7374796c653d666c61742d737175617265266c6f676f3d6d7973716c"></a></td>
 </tr>
 
 
