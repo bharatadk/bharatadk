@@ -65,7 +65,7 @@
 <tbody>
 <tr>
 <td><a href="https://github.com/bharatadk/python_splitter">Python Splitter</a></td>
-<td><a href="https://pypi.org/project/python-splitter/" rel="nofollow"><img src="https://pypi.org/static/images/logo-small.2a411bc6.svg" alt="PyPi"  style="max-width: 100%;"></a> <a target="_blank" rel="noopener noreferrer nofollow" href="></a></td>
+<td><a href="https://pypi.org/project/python-splitter/" rel="nofollow"><img src="https://pypi.org/static/images/logo-small.8998e9d1.svg" alt="PyPi"  style="max-width: 24px;"></a> <a target="_blank" rel="noopener noreferrer nofollow" href="></a></td>
 </tr>
 
 
