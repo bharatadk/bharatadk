@@ -45,13 +45,6 @@
 </tr>
 </tbody>
 
-<tbody>
-<tr>
-<td><a href="https://github.com/bharatadk/Image-Background-Eraser">Image Background Eraser</a></td>
-<td> React openCV</br> Flask MySQL</td>
-</tr>
-</tbody>
-
 </table>
   
 </td><td>
